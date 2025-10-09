@@ -17,10 +17,10 @@
 202x年“大数据技术与应用赛项”国际赛 - **“天擎”系统先行版计划于亮相**
 
 - ##技术栈
-- **数据处理**：Pandas,Numpy,Xarray
-- **机器学习**：Scikit-learn,TensorFlow/PyTorch
-- **可视化**：Matplotlib,Plotly,Streamlit
-- **气象专业**:MetPy,Cartopy
+- **数据处理**： Pandas，Numpy，Xarray
+- **机器学习**： Scikit-learn，TensorFlow/PyTorch
+- **可视化**： Matplotlib，Plotly，Streamlit
+- **气象专业**: MetPy，Cartopy
 
 - ## 项目结构
 - 天擎/

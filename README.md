@@ -13,6 +13,7 @@
 - **跨领域适用** - 一套框架，多个场景
 
 - ##技术栈
+- 项目基于Python科学计算生态构建，其主要技术组件包括：
 - **数据处理**： Pandas，Numpy，Xarray
 - **机器学习**： Scikit-learn，TensorFlow/PyTorch
 - **可视化**： Matplotlib，Plotly，Streamlit
